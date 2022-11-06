@@ -1,0 +1,11 @@
+.idea
+*.iml
+
+.DS_Store
+application.pid
+
+
+.classpath
+.project
+target
+.settings
